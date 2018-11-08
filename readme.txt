@@ -6,3 +6,4 @@
 É¾³ý·ÖÖ§£ºgit branch -d <name>
 Git is a free software
 issue101 fixed
+issue-102
